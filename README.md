@@ -1,6 +1,6 @@
 # Machine-Learning-Models-
-Linear Regression Model
-==========================
+Linear Regression Model --Logistic Regression -- MultiLinear Regression -- Polynomial Regression
+=================================================================================================
 Supervised Learning
 In supervised learning, the training data you feed to the algorithm includes the desired solutions, called labels.
 
